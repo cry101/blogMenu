@@ -21,7 +21,9 @@ or youself css;
 <div class="highlight highlight-text-html-basic">
 <pre>
 you can just:
+```html
 <div class="autoMenu" id="autoMenu" data-autoMenu></div>
+```
 or:
 $("#autoMenu").autoMenu({
     levelOne : 'h3', //一级标题
