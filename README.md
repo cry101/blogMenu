@@ -18,12 +18,13 @@ or youself css;
 </div>
 
 <h4>how to use：</h4>
-<div class="highlight highlight-text-html-basic">
-<pre>
 you can just:
 ```html
 <div class="autoMenu" id="autoMenu" data-autoMenu></div>
 ```
+<div class="highlight highlight-text-html-basic">
+<pre>
+
 or:
 $("#autoMenu").autoMenu({
     levelOne : 'h3', //一级标题
